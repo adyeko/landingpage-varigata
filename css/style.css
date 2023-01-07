@@ -1,0 +1,35 @@
+.jumbotron{
+    background-image: url(/img/312375905_597993492108878_7844812138042097597_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    margin-top: -58px;
+}
+.jumbotron img{
+    margin: 50px;
+}
+.jumbotron .display-4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    min-height: 2000px;
+}
+.gallery{
+    background-color: #fff;
+}
+#about{
+    padding-bottom: 200px;
+    background-color: rgb(222, 222, 222);
+    transition: .3s;
+}
+#contact{
+    background-color:rgb(222, 222, 222) ;
+    
+}
+.footer{
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    font-weight: bold;
+    color: rgb(180, 179, 179);
+}
